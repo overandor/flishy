@@ -1,0 +1,5 @@
+{
+  "name": "FlashForce Executor",
+  "description": "A sophisticated interface for building, analyzing, and executing complex multi-step, multi-chain, and multi-DEX flash loan strategies. Leverage AI-powered analysis to identify risks and opportunities before execution.",
+  "requestFramePermissions": []
+}
